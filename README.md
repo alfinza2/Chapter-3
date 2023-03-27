@@ -1,6 +1,6 @@
-## Nama      : Pranata Dito Fitriyansyah
+## Nama      : Alfinza Sanjaya Putra
 ## Kelas     : TI - 3C
-## No. Absen : 16
+## No. Absen : 02
 
 BIG DATA - Chapter 3
 
@@ -8,7 +8,7 @@ BIG DATA - Chapter 3
 
 ## Accumulator
 
-![Screenshot](image/Accumulator.png)
+![Screenshot](img/1.png)
 
 ## Broadcast
 
