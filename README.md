@@ -12,25 +12,25 @@ BIG DATA - Chapter 3
 
 ## Broadcast
 
-![Screenshot](image/Broadcast.png)
+![Screenshot](img/2.png)
 
 ## PairRDD
 
-![Screenshot](image/PairRDD.png)
+![Screenshot](img/3.png)
 
 ## SystemCommandsOutput
 
-![Screenshot](image/SystemCommandsOutput.png)
+![Screenshot](img/6.png)
 
 ## SystemCommandsReturnCode
 
-![Screenshot](image/SystemCommandsReturnCode.png)
+![Screenshot](img/7.png)
 
 ## UnderstandingRDDs
 
-![Screenshot](image/UnderstandingRDDs.png)
+![Screenshot](img/4.png)
 
 ## WordCount
 
-![Screenshot](image/WordCount.png)
+![Screenshot](img/5.png)
 
